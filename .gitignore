@@ -1,3 +1,5 @@
 #*.oh-my-zsh/
 #oh-my-zsh
 *.DS_Store
+vim/.vim/plugged/
+zsh/.oh-my-zsh/
